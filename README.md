@@ -1,4 +1,4 @@
-# 2020_11_25-meeting3
+# 2020_11_25-meeting-3
 Repo for the third meeting of the Lucerne R User group.  
 Topics of the day: building R packages, using the S3 OO system, and getting started into Shiny.
 
