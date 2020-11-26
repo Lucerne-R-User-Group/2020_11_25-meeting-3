@@ -8,4 +8,4 @@ Topics of the day: building R packages, using the S3 OO system, and getting star
 - 18.35 - 19.05 - Presentation, "Object Oriented Programming in R: An Introduction to S3," by Lukas Huwiler (CSS).
 - 19.05 - 20.00 - Workshop, "Introduction to Shiny," by Nicolas Attalides (Mango Solutions). 
 
-The workshop material is available at the Barcelona RUG's website [[link](https://www.barcelonar.org/past_events.html)]. 
+The material for the workshop "Introduction to Shiny" is available at the Barcelona RUG's website [[link](https://www.barcelonar.org/past_events.html)]. 
